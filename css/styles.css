@@ -1,0 +1,82 @@
+body {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  box-sizing: border-box;
+}
+
+/** HEADER BAR**/
+
+h2 {
+  font-weight: bold;
+}
+
+hr {
+  border-color: black;
+}
+
+#container-food {
+  width: 100%;
+  background-color: gray;
+  color: black;
+}
+
+.navbar-brand { /* Food, LLC header*/
+  margin-top: 0px;
+  margin-bottom: 15px;
+  margin-left: 0px;
+  margin-right: 5px;
+  font-weight: bold;
+  font-size: 2em;
+  color: black;
+  background-color: gray;
+  width: 100%;
+  box-sizing: border-box;
+  border-color: black;
+  border: 1px;
+  font-family: Arial;
+  height: 20%;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+/* END HEADER */
+
+#container-fluid {
+  width: 100%;
+  background-color: white;
+  color: black;
+}
+
+#menu {
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+#subtitles { /** body headings **/
+  font-weight: bold;
+}
+
+#textbox { /*Chicken Description */
+  box-sizing: border-box;
+  color: black; 
+  background-color: gray;
+  text-align: center;
+  border: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: justify;
+  font-weight: bold;
+  width: 100%;
+}
